@@ -5,6 +5,7 @@ import Success from "./pages/Success";
 import Error from "./pages/Error";
 import toast, { Toaster } from "react-hot-toast";
 import { ProtectedRoute } from "./component/protectedRoute";
+
 const App = () => {
   return (
     <>
